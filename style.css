@@ -1,0 +1,18 @@
+*{
+    text-align: center;
+}
+.body{
+    margin: 100px 550px;
+}
+h1{
+    font-size: 75px;
+}
+h2{
+    font-size: 60px;
+}
+h3{
+    font-size: 50px;
+}
+p{
+    font-size: 25px;
+}
